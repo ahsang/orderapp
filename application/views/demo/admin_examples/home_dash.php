@@ -53,6 +53,18 @@
 				<div class="navbar-custom-menu"></div>
 			</nav>
 		</header>
+
+		<?
+			if($message!=null){
+
+		?>
+		<script type="text/javascript">
+			alert("<?echo $message?>");
+		</script>
+		<?		
+			}
+		?>
+
 		<!-- Left side column. contains the logo and sidebar -->
 		<aside class="main-sidebar">
 			<!-- sidebar: style can be found in sidebar.less -->

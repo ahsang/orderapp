@@ -176,12 +176,12 @@ class Auth_admin extends CI_Controller {
 		$cat['4']="Ointments & Gels";
 		$input['Category']=$cat[$input['CategoryID']];
 		$this->db->insert('MedMaster', $input);
-		
+		$this->session->flashdata('message',$this->db->insert_id());
 		// $input_db['Price']=$input['price'];
-		var_dump($this->db->insert_id());
+		// var_dump($this->db->insert_id());
 		
 		// echo $input;
-		// redirect('auth');
+		redirect('auth');
 	}
 	function details()
 	{
