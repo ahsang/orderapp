@@ -127,7 +127,7 @@
 											<td><?php echo $m->Name;?></td>
 											<td><?php echo $m->Category;?></td>
 											<td><a href="<?php echo $base_url?>auth_admin/details/<?php echo $m->MedID?>" class="btn btn-primary form-control">Edit</a></td>
-											<td><button href="<?php echo $base_url?>auth_admin/delete_med/<?php echo $m->MedID?>" onclick="return confirm('Are you sure you would like to add a new medicine for this category?');" class="btn btn-primary form-control">Delete</button></td>
+											<td><a href="<?php echo $base_url?>auth_admin/delete_med/<?php echo $m->MedID?>" onclick="return confirm('Are you sure you would like to add a new medicine for this category?');" class="btn btn-primary form-control">Delete</a></td>
 											
 										</tr>
 										<?php }?>
