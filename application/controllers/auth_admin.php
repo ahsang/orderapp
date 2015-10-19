@@ -137,7 +137,7 @@ class Auth_admin extends CI_Controller {
 		$this->data['batch']=$this->med_model->get_batch();
 // 		$this->data['categories']=$this->med_model->get_batch();
 		
-		$this->load->view('demo/admin_examples/batch_update', $this->data);
+		$this->load->view('demo/admin_examples/add_med', $this->data);
 	}
 	
 	function batch_update_execute(){
