@@ -188,6 +188,7 @@
 										<tr>
 											<th>Category</th>
 											<th>Name</th>
+											<th>Indications</th>
 											
 											<th>Update</th>
 
@@ -208,11 +209,11 @@
 											<option value="<?php echo $m->CategoryID;?>"><?php echo $m->Category;?></option>
 											<?php }?>
 											</select></td>
-											<td><select id="Size" name="Size">
-
-											</select></td>
-											<td><input type="text" class="form-control" name="price"
-												id="price"></td>
+											
+											<td><input type="text" class="form-control" name="Name"
+												id="Name"></td>
+											<td><input type="text" class="form-control" name="Indications"
+												id="Indications"></td>
 											<td><button class="btn btn-primary form-control"
 													onclick="return confirm('Are you sure you would like to add a new medicine for this category?');">Process
 													Query</button></td>
