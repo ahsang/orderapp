@@ -104,7 +104,7 @@ class Auth_admin extends CI_Controller {
  	 */
     function dashboard()
     {
-		$this->data['message'] = $this->session->flashdata('message');
+		// $this->data['message'] = $this->session->flashdata('message');
 		$this->data['medicines']=$this->med_model->get_medicines();
 		
 		$this->load->view('demo/admin_examples/home_dash', $this->data);
@@ -112,7 +112,7 @@ class Auth_admin extends CI_Controller {
 
 	function orders()
     {
-		$this->data['message'] = $this->session->flashdata('message');
+		// $this->data['message'] = $this->session->flashdata('message');
 		$this->data['orders']=$this->med_model->get_orders();
 		$this->data['users']=$this->med_model->get_users();
 		
@@ -123,7 +123,7 @@ class Auth_admin extends CI_Controller {
 	function batch()
 	{
 		
-		$this->data['message'] = $this->session->flashdata('message');
+		// $this->data['message'] = $this->session->flashdata('message');
 		$this->data['batch']=$this->med_model->get_batch();
 // 		$this->data['categories']=$this->med_model->get_batch();
 		
@@ -133,7 +133,7 @@ class Auth_admin extends CI_Controller {
 	function med_add()
 	{
 		
-		$this->data['message'] = $this->session->flashdata('message');
+		// $this->data['message'] = $this->session->flashdata('message');
 		$this->data['batch']=$this->med_model->get_batch();
 // 		$this->data['categories']=$this->med_model->get_batch();
 		
@@ -187,7 +187,7 @@ class Auth_admin extends CI_Controller {
 	{
 		$id=$this->uri->segment(3);
 		
-		$this->data['message'] = $this->session->flashdata('message');
+		// $this->data['message'] = $this->session->flashdata('message');
 		$this->data['medicines']=$this->med_model->get_medicines();
 		$this->data['medicine_details']=$this->med_model->get_medicine_details($id);
 		//var_dump($this->data['medicine_details']);
@@ -199,7 +199,7 @@ class Auth_admin extends CI_Controller {
 	{
 		$id=$this->uri->segment(3);
 		
-		$this->data['message'] = $this->session->flashdata('message');
+		// $this->data['message'] = $this->session->flashdata('message');
 		$this->data['orders']=$this->med_model->get_orders();
 		$this->data['medicines']=$this->med_model->get_medicines();
 		$this->data['package']=$this->med_model->get_packages();
