@@ -54,17 +54,7 @@
 			</nav>
 		</header>
 
-		<?
-			$x=$this->session->flashdata('message');
-			if($x!=null){
 
-		?>
-		<script type="text/javascript">
-			alert(<?echo $x?>);
-		</script>
-		<?		
-			}
-		?>
 
 		<!-- Left side column. contains the logo and sidebar -->
 		<aside class="main-sidebar">
@@ -107,9 +97,21 @@
 			<!-- Content Header (Page header) -->
 			<section class="content-header">
 				<h1>Medicines Master</h1>
+				<br>
+				<?
+					$x=$this->session->flashdata('message');
+					var_dump($x);
+					if($x!=null){
 
+				?>
+				<script type="text/javascript">
+					alert(<?echo $x?>);
+				</script>
+				<?		
+					}
+				?>
 			</section>
-
+	
 			<!-- Main content -->
 			<?php //var_dump($medicines);?>
 			<section class="content">
