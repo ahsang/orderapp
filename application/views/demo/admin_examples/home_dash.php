@@ -102,7 +102,7 @@
 					$x=$this->session->userdata('message');
 					$this->session->unset_userdata('message');
 
-					var_dump($x);
+					echo($x);
 					if($x){
 
 				?>
