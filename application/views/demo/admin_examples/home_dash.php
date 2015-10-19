@@ -59,7 +59,7 @@
 
 		?>
 		<script type="text/javascript">
-			alert("<?echo $message?>");
+			alert(<?echo $message?>);
 		</script>
 		<?		
 			}
