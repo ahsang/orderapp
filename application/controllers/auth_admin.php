@@ -168,12 +168,12 @@ class Auth_admin extends CI_Controller {
 		$input=$this->input->post();
 		unset($input['example2_length']);
 		$cat['6']="Heal Remedies";
-		$cat['7']="Mother Tinctures"
-		$cat['5']="Dilutions"
-		$cat['1']="BioChemic Combination Tablets"
-		$cat['2']="MPW Specific Remedies"
-		$cat['3']="Specific Remedies"
-		$cat['4']="Ointments & Gels"
+		$cat['7']="Mother Tinctures";
+		$cat['5']="Dilutions";
+		$cat['1']="BioChemic Combination Tablets";
+		$cat['2']="MPW Specific Remedies";
+		$cat['3']="Specific Remedies";
+		$cat['4']="Ointments & Gels";
 		$input['Category']=$cat[$input['CategoryID']];
 		$this->db->insert('MedMaster', $input);
 		
