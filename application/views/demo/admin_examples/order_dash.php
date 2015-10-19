@@ -140,10 +140,10 @@
 											<td>
 
 											<select id="<?php echo $s->OrderID."Price"?>">
-												<option value="pending">pending</option>
-												  <option value="statusb">statusb</option>
-												  <option value="statusc">statusc</option>
-												  <option value="statusd">statusd</option>	
+												<option value="Received">Received</option>
+												  <option value="Under Process">Under Process</option>
+												  <option value="Waiting for confirmation">Waiting for confirmation</option>
+												  <option value="Dispatched">Dispatched</option>	
 
 											</select>
 											&nbsp;&nbsp;
