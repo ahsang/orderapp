@@ -98,16 +98,16 @@
 			<section class="content-header">
 				<h1>Medicines Master</h1>
 				<br>
-				<?
+				<?php
 					$x=$this->session->flashdata('message');
 					var_dump($x);
 					if($x!=null){
 
 				?>
 				<script type="text/javascript">
-					alert(<?echo $x?>);
+					alert(<?php echo $x?>);
 				</script>
-				<?		
+				<?php		
 					}
 				?>
 			</section>
