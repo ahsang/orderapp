@@ -168,9 +168,9 @@ class Auth_admin extends CI_Controller {
 		$input=$this->input->post();
 		
 		// $input_db['Price']=$input['price'];
+		var_dump($input);
 		
-		
-		echo $input;
+		// echo $input;
 		// redirect('auth');
 	}
 	function details()
