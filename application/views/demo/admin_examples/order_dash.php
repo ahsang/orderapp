@@ -141,8 +141,8 @@
 
 											<select id="<?php echo $s->OrderID."Price"?>">
 												<option value="Received">Received</option>
-												  <option value="Under Process">Under Process</option>
-												  <option value="Waiting for confirmation">Waiting for confirmation</option>
+												  <option value="UnderProcess">Under Process</optiozn>
+												  <option value="WaitingForConfirmation">Waiting for confirmation</option>
 												  <option value="Dispatched">Dispatched</option>	
 
 											</select>
