@@ -150,6 +150,19 @@ class Auth_admin extends CI_Controller {
 		echo $count;
 		redirect('auth');
 	}
+
+	function add_med(){
+		$count=1;
+		// $this->db->select("*")->from("MedMaster as m")->join("PackingMedJoin as p","m.MedID=p.medID");
+		$temp=$this->db->get()->result();
+		$input=$this->input->post();
+		
+		// $input_db['Price']=$input['price'];
+		
+		
+		echo $input;
+		// redirect('auth');
+	}
 	function details()
 	{
 		$id=$this->uri->segment(3);
