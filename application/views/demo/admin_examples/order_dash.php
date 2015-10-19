@@ -101,6 +101,8 @@
 			<?php
 				foreach ($users as $us){
 					$uname[$us->UserID]=$us->Name;
+					$tel[$us->UserID]=$us->Telephone;
+					$add[$us->UserID]=$us->Address;
 
 				}
 
@@ -122,6 +124,8 @@
 										<tr>
 											<th>ID</th>
 											<th>User Name</th>
+											<th>Address</th>
+											<th>Telephone</th>
 											<th>TimeStamp</th>
 											<th>Status</th>
 											<th>Change Status to</th>
@@ -135,6 +139,8 @@
 										<tr>
 											<td><?php echo $s->OrderID;?></td>
 											<td><?php echo $uname[$s->UserID];?></td>
+											<td><?php echo $add[$s->UserID];?></td>
+											<td><?php echo $tel[$s->UserID];?></td>
 											<td><?php echo $s->TimeStamp;?></td>
 											<td><?php echo $s->Status;?></td>
 											<td>
