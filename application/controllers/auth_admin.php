@@ -220,6 +220,17 @@ class Auth_admin extends CI_Controller {
 		redirect('auth_admin/details/'.$med_id);
 		
 	}
+
+	function del_med(){
+		$id=$this->uri->segment(3);
+		// $med_id=$this->uri->segment(4);
+		var_dump($id);
+		$this->db->where('MedID', $id);
+		$this->db->delete('MedMaster');
+		
+		redirect('auth');
+		
+	}
 	
 
 	###++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++###	

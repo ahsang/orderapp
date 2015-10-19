@@ -55,11 +55,11 @@
 		</header>
 
 		<?
-			if($message!=null){
+			if($this->session->flashdata('message')){
 
 		?>
 		<script type="text/javascript">
-			alert(<?echo $message?>);
+			alert(<?echo $this->session->flashdata('message')?>);
 		</script>
 		<?		
 			}
