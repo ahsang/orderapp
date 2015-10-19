@@ -1,0 +1,137 @@
+[Thu Apr 02 12:23:09.652436 2015] [core:alert] [pid 29112] [client 39.62.113.179:13730] /srv/orderapp/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Apr 02 12:49:49.392639 2015] [core:error] [pid 29255] [client 39.62.113.179:14634] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Apr 02 12:49:56.635179 2015] [core:error] [pid 29254] [client 39.62.113.179:14636] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Apr 02 12:50:15.324974 2015] [core:error] [pid 29256] [client 221.120.220.12:53646] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Apr 02 13:30:23.561526 2015] [core:error] [pid 29255] [client 104.236.203.91:54393] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://l.facebook.com/lsr.php?u=http%3A%2F%2Forder.masood.com.pk%2Fwelcome&ext=1427995881&hash=AcmyaeuiDgb0YVZdWWL6huzZvtxMHBYD8vpsAqt3b-ftaw
+[Thu Apr 02 13:30:24.355505 2015] [core:error] [pid 29254] [client 104.236.203.91:54394] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://order.masood.com.pk/welcome
+[Thu Apr 02 17:40:18.672517 2015] [core:error] [pid 29257] [client 95.213.143.180:45916] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://46.101.45.177/rom-0
+[Fri Apr 03 01:38:05.306166 2015] [core:error] [pid 29258] [client 119.57.17.20:56750] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Apr 03 01:38:05.892796 2015] [core:error] [pid 29261] [client 119.57.17.20:56910] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Apr 03 01:38:06.482058 2015] [core:error] [pid 29256] [client 119.57.17.20:57053] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Apr 03 01:38:07.069887 2015] [core:error] [pid 29255] [client 119.57.17.20:57230] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Apr 03 04:57:17.393002 2015] [core:error] [pid 29261] [client 95.213.143.180:36522] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://46.101.45.177/rom-0
+[Fri Apr 03 08:46:37.731480 2015] [core:error] [pid 29255] [client 94.243.223.7:61041] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Apr 03 08:46:37.897242 2015] [core:error] [pid 29258] [client 94.243.223.7:61077] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Apr 03 08:46:38.052667 2015] [core:error] [pid 29767] [client 94.243.223.7:61104] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Apr 03 08:46:38.213516 2015] [core:error] [pid 29254] [client 94.243.223.7:61129] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Apr 03 16:42:05.050721 2015] [core:error] [pid 29258] [client 104.236.203.91:53125] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Apr 04 15:24:32.563104 2015] [core:error] [pid 29258] [client 59.124.162.98:64532] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 15:24:33.232587 2015] [core:error] [pid 29767] [client 59.124.162.98:64855] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 15:24:33.875192 2015] [core:error] [pid 29254] [client 59.124.162.98:65082] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 15:24:34.541229 2015] [core:error] [pid 29257] [client 59.124.162.98:65354] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 15:24:35.220599 2015] [core:error] [pid 29261] [client 59.124.162.98:49311] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 15:24:35.837284 2015] [core:error] [pid 29256] [client 59.124.162.98:49537] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 15:24:36.513039 2015] [core:error] [pid 29255] [client 59.124.162.98:49800] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 15:24:37.202835 2015] [core:error] [pid 29258] [client 59.124.162.98:50120] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 15:24:37.890613 2015] [core:error] [pid 29767] [client 59.124.162.98:50367] AH00126: Invalid URI in request GET  HTTP/1.1
+[Sat Apr 04 17:03:39.346476 2015] [:error] [pid 10166] [client 39.42.61.6:18063] PHP Parse error:  syntax error, unexpected '<' in /srv/orderapp/application/views/demo/admin_examples/home_dash.php on line 129, referer: http://order.masood.com.pk/auth
+[Sat Apr 04 17:03:41.386093 2015] [:error] [pid 10196] [client 39.42.61.6:18068] PHP Parse error:  syntax error, unexpected '<' in /srv/orderapp/application/views/demo/admin_examples/home_dash.php on line 129, referer: http://order.masood.com.pk/auth
+[Sat Apr 04 17:03:43.483665 2015] [:error] [pid 10197] [client 39.42.61.6:18069] PHP Parse error:  syntax error, unexpected '<' in /srv/orderapp/application/views/demo/admin_examples/home_dash.php on line 129, referer: http://order.masood.com.pk/auth
+[Sun Apr 05 08:56:30.863293 2015] [:error] [pid 11438] [client 39.42.61.6:20991] PHP Fatal error:  Call to undefined method med_model::get_medicine_details() in /srv/orderapp/application/controllers/auth_admin.php on line 118, referer: http://order.masood.com.pk/auth_admin/dashboard
+[Sun Apr 05 09:19:08.308159 2015] [:error] [pid 11584] [client 39.42.61.6:22010] PHP Parse error:  syntax error, unexpected '}' in /srv/orderapp/application/views/demo/admin_examples/med_views.php on line 148, referer: http://order.masood.com.pk/auth_admin/dashboard
+[Sun Apr 05 09:19:11.675794 2015] [:error] [pid 11424] [client 39.42.61.6:22011] PHP Parse error:  syntax error, unexpected '}' in /srv/orderapp/application/views/demo/admin_examples/med_views.php on line 148, referer: http://order.masood.com.pk/auth_admin/dashboard
+[Sun Apr 05 09:19:14.331637 2015] [:error] [pid 11587] [client 39.42.61.6:22012] PHP Parse error:  syntax error, unexpected '}' in /srv/orderapp/application/views/demo/admin_examples/med_views.php on line 148, referer: http://order.masood.com.pk/auth_admin/dashboard
+[Sun Apr 05 09:49:37.987677 2015] [:error] [pid 11714] [client 39.42.61.6:23089] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /srv/orderapp/application/views/demo/admin_examples/med_views.php on line 151, referer: http://order.masood.com.pk/auth_admin/details/2166
+[Sun Apr 05 09:49:40.024728 2015] [:error] [pid 11716] [client 39.42.61.6:23090] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /srv/orderapp/application/views/demo/admin_examples/med_views.php on line 151, referer: http://order.masood.com.pk/auth_admin/details/2166
+[Thu Apr 09 11:07:04.394421 2015] [core:error] [pid 11816] [client 220.133.59.53:58371] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 09 11:07:05.127908 2015] [core:error] [pid 11814] [client 220.133.59.53:58485] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 09 11:07:05.806130 2015] [core:error] [pid 21441] [client 220.133.59.53:58584] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 09 11:07:06.526978 2015] [core:error] [pid 11782] [client 220.133.59.53:58699] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 09 11:07:07.256461 2015] [core:error] [pid 13831] [client 220.133.59.53:58804] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 09 11:07:07.943624 2015] [core:error] [pid 13833] [client 220.133.59.53:58909] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 09 11:07:08.680753 2015] [core:error] [pid 11802] [client 220.133.59.53:59026] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 09 11:07:09.450019 2015] [core:error] [pid 20604] [client 220.133.59.53:59133] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 09 11:07:10.213953 2015] [core:error] [pid 11818] [client 220.133.59.53:59256] AH00126: Invalid URI in request GET  HTTP/1.1
+[Fri Apr 17 19:43:10.322608 2015] [core:error] [pid 10524] [client 104.128.144.130:35849] AH00082: an unknown filter was not added: includes
+[Fri Apr 17 19:43:10.325393 2015] [core:error] [pid 10524] [client 104.128.144.130:35849] AH00082: an unknown filter was not added: includes
+[Thu Apr 23 02:39:42.268630 2015] [core:error] [pid 30830] [client 61.91.3.106:52859] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 23 02:39:42.793644 2015] [core:error] [pid 30829] [client 61.91.3.106:52923] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 23 02:39:43.274150 2015] [core:error] [pid 30833] [client 61.91.3.106:53004] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 23 02:39:43.756710 2015] [core:error] [pid 30831] [client 61.91.3.106:53060] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 23 02:39:44.234444 2015] [core:error] [pid 30832] [client 61.91.3.106:53136] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 23 02:39:44.712437 2015] [core:error] [pid 32433] [client 61.91.3.106:53189] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 23 02:39:45.216484 2015] [core:error] [pid 30963] [client 61.91.3.106:53260] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 23 02:39:45.819153 2015] [core:error] [pid 32434] [client 61.91.3.106:53326] AH00126: Invalid URI in request GET  HTTP/1.1
+[Thu Apr 23 02:39:46.339437 2015] [core:error] [pid 30830] [client 61.91.3.106:53420] AH00126: Invalid URI in request GET  HTTP/1.1
+[Fri Apr 24 13:45:57.674600 2015] [core:error] [pid 30963] [client 213.0.62.65:39968] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Fri Apr 24 21:43:32.325724 2015] [core:error] [pid 30833] [client 115.254.2.84:55992] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 01:32:40.109499 2015] [core:error] [pid 30831] [client 93.89.237.138:50349] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 01:56:14.946283 2015] [core:error] [pid 10160] [client 211.25.49.30:13267] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 02:56:02.537361 2015] [core:error] [pid 10164] [client 119.188.6.231:34520] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 03:41:49.207312 2015] [core:error] [pid 30963] [client 109.228.23.63:53100] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 05:43:59.328330 2015] [core:error] [pid 10164] [client 195.137.213.227:34378] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 07:08:15.165879 2015] [core:error] [pid 12342] [client 148.102.17.234:58968] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 07:23:05.544864 2015] [core:error] [pid 12341] [client 109.71.50.110:52484] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 08:53:18.531661 2015] [core:error] [pid 12928] [client 203.146.249.63:43063] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 10:04:20.169399 2015] [core:error] [pid 12928] [client 12.170.16.67:59345] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 10:06:58.341872 2015] [core:error] [pid 12932] [client 12.170.16.67:50104] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Apr 25 10:32:48.315552 2015] [core:error] [pid 10164] [client 78.107.254.83:41583] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Apr 27 01:48:53.700076 2015] [core:error] [pid 12932] [client 114.41.183.156:50950] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 01:48:54.387191 2015] [core:error] [pid 12341] [client 114.41.183.156:51067] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 01:48:55.048511 2015] [core:error] [pid 12929] [client 114.41.183.156:51179] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 01:48:55.713713 2015] [core:error] [pid 13156] [client 114.41.183.156:51304] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 01:48:56.397131 2015] [core:error] [pid 13157] [client 114.41.183.156:51422] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 01:48:57.068695 2015] [core:error] [pid 12476] [client 114.41.183.156:51526] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 01:48:57.722371 2015] [core:error] [pid 12928] [client 114.41.183.156:51650] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 01:48:58.387206 2015] [core:error] [pid 12487] [client 114.41.183.156:51760] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 01:48:59.059674 2015] [core:error] [pid 10164] [client 114.41.183.156:51864] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:45:54.748454 2015] [core:error] [pid 16553] [client 118.160.69.9:65422] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:45:55.418826 2015] [core:error] [pid 16580] [client 118.160.69.9:65503] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:45:56.085503 2015] [core:error] [pid 16555] [client 118.160.69.9:49225] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:45:56.794775 2015] [core:error] [pid 16833] [client 118.160.69.9:49331] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:45:57.478617 2015] [core:error] [pid 16830] [client 118.160.69.9:49416] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:45:58.153415 2015] [core:error] [pid 16552] [client 118.160.69.9:49502] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:45:58.825265 2015] [core:error] [pid 16831] [client 118.160.69.9:49608] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:45:59.492008 2015] [core:error] [pid 16832] [client 118.160.69.9:49699] AH00126: Invalid URI in request GET  HTTP/1.1
+[Mon Apr 27 14:46:00.166620 2015] [core:error] [pid 16829] [client 118.160.69.9:49786] AH00126: Invalid URI in request GET  HTTP/1.1
+[Fri May 01 10:07:20.425028 2015] [:error] [pid 16832] [client 182.191.178.114:3459] PHP Fatal error:  Cannot redeclare Auth_admin::dashboard() in /srv/orderapp/application/controllers/auth_admin.php on line 114, referer: http://order.masood.com.pk/
+[Fri May 01 10:07:27.990543 2015] [:error] [pid 16580] [client 182.191.178.114:3478] PHP Fatal error:  Cannot redeclare Auth_admin::dashboard() in /srv/orderapp/application/controllers/auth_admin.php on line 114
+[Fri May 01 10:15:45.918704 2015] [:error] [pid 30875] [client 182.191.178.114:3790] PHP Parse error:  syntax error, unexpected end of file in /srv/orderapp/application/views/demo/admin_examples/batch_update.php on line 241
+[Fri May 01 10:15:47.351193 2015] [:error] [pid 16580] [client 182.191.178.114:3791] PHP Parse error:  syntax error, unexpected end of file in /srv/orderapp/application/views/demo/admin_examples/batch_update.php on line 241
+[Fri May 01 10:33:44.935674 2015] [:error] [pid 16554] [client 182.191.178.114:4670] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:33:46.227307 2015] [:error] [pid 16831] [client 119.9.76.111:39897] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:37:40.381015 2015] [:error] [pid 18793] [client 182.191.178.114:4878] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:37:55.439003 2015] [:error] [pid 16830] [client 182.191.178.114:4893] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:46:06.350443 2015] [:error] [pid 16552] [client 182.191.178.114:5204] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:46:19.223734 2015] [:error] [pid 16832] [client 182.191.178.114:5208] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:46:33.998099 2015] [:error] [pid 30890] [client 182.191.178.114:5212] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:47:29.712313 2015] [:error] [pid 16554] [client 221.120.220.12:54750] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/
+[Fri May 01 10:47:30.513013 2015] [:error] [pid 18793] [client 119.9.76.111:45019] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:47:33.056860 2015] [:error] [pid 30890] [client 221.120.220.12:1656] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:47:39.579365 2015] [:error] [pid 31043] [client 221.120.220.12:2100] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/
+[Fri May 01 10:48:16.609038 2015] [:error] [pid 16554] [client 182.191.178.114:5269] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 10:48:33.487623 2015] [:error] [pid 16831] [client 182.191.178.114:5294] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/
+[Fri May 01 10:48:59.966973 2015] [:error] [pid 16830] [client 182.191.178.114:5315] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/
+[Fri May 01 12:00:56.584904 2015] [:error] [pid 30890] [client 111.68.103.163:56204] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://46.101.45.177/
+[Fri May 01 12:02:50.207520 2015] [:error] [pid 18793] [client 182.191.178.114:8049] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 12:09:17.495889 2015] [:error] [pid 30874] [client 182.191.178.114:8392] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 12:09:25.609306 2015] [:error] [pid 16831] [client 182.191.178.114:8393] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 12:11:17.201143 2015] [:error] [pid 16830] [client 182.191.178.114:8455] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/auth
+[Fri May 01 12:12:04.547795 2015] [:error] [pid 30875] [client 182.191.178.114:8482] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/auth
+[Fri May 01 13:04:13.334990 2015] [:error] [pid 18793] [client 203.124.28.74:32295] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 13:04:40.958374 2015] [:error] [pid 30874] [client 203.124.28.74:53284] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 15:09:52.290734 2015] [:error] [pid 30874] [client 182.189.61.80:57551] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/
+[Fri May 01 15:14:49.047773 2015] [:error] [pid 30875] [client 203.124.25.8:44965] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/
+[Fri May 01 15:14:53.435234 2015] [:error] [pid 16580] [client 203.124.25.8:38420] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303
+[Fri May 01 15:17:47.241606 2015] [:error] [pid 1110] [client 39.42.74.9:57679] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/
+[Fri May 01 15:19:22.926548 2015] [:error] [pid 1111] [client 203.124.25.8:57973] PHP Fatal error:  Class 'Med_model' not found in /srv/orderapp/system/core/Loader.php on line 303, referer: http://order.masood.com.pk/
+[Tue Jun 02 19:06:28.006878 2015] [core:error] [pid 21696] [client 209.190.113.85:55098] AH00126: Invalid URI in request GET /../index2.html HTTP/1.1
+[Mon Aug 03 22:34:32.842557 2015] [:error] [pid 15123] [client 195.23.139.195:57485] script '/usr/share/phpmyadmin/main.php' not found or unable to stat
+[Fri Aug 07 04:28:28.880974 2015] [core:error] [pid 15123] [client 46.226.110.255:57847] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Aug 10 10:23:35.302447 2015] [:error] [pid 32214] [client 137.226.113.7:46988] PHP Notice:  Constant ENVIRONMENT already defined in /srv/orderapp/index.php on line 21
+[Thu Aug 13 08:35:29.069939 2015] [:error] [pid 8253] [client 137.226.113.7:51077] PHP Notice:  Constant ENVIRONMENT already defined in /srv/orderapp/index.php on line 21
+[Tue Aug 25 09:52:04.364101 2015] [core:error] [pid 28226] [client 64.15.155.177:38278] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Aug 29 15:40:24.871356 2015] [core:error] [pid 21520] [client 211.78.86.80:34424] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Aug 29 16:15:12.809166 2015] [core:error] [pid 1957] [client 218.4.111.78:60002] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 01:49:10.826219 2015] [core:error] [pid 25666] [client 213.178.196.250:44674] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 02:49:07.294902 2015] [core:error] [pid 1955] [client 37.128.62.128:43499] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 04:15:39.249062 2015] [core:error] [pid 31377] [client 211.94.131.150:15354] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 07:43:28.401545 2015] [core:error] [pid 1912] [client 212.58.7.71:33941] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 10:09:55.570120 2015] [core:error] [pid 2271] [client 211.94.131.150:13264] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Wed Sep 16 16:06:11.520972 2015] [:error] [pid 2685] [client 39.42.106.33:62749] PHP Fatal error:  Call to undefined method med_model::get_order_details() in /srv/orderapp/application/controllers/auth_admin.php on line 172, referer: http://order.masood.com.pk/auth_admin/orders
+[Mon Sep 28 19:05:52.069642 2015] [:error] [pid 31387] [client 93.174.95.81:47748] PHP Notice:  Constant ENVIRONMENT already defined in /srv/orderapp/index.php on line 21
+[Mon Oct 05 22:36:48.263218 2015] [core:error] [pid 8471] [client 36.78.131.146:52822] AH00126: Invalid URI in request GET: index.php HTTP/1.0 
+[Wed Oct 07 13:42:34.854080 2015] [:error] [pid 8470] [client 41.234.13.77:51294] PHP Notice:  Constant ENVIRONMENT already defined in /srv/orderapp/index.php on line 21
+[Sat Oct 10 07:06:05.602046 2015] [core:error] [pid 8468] [client 178.250.45.85:50904] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Oct 12 14:20:40.929987 2015] [core:error] [pid 16670] [client 200.87.35.202:59863] AH00126: Invalid URI in request GET: index.php HTTP/1.0 
+[Tue Oct 13 11:07:14.018164 2015] [:error] [pid 16670] [client 95.213.177.125:28024] PHP Notice:  Constant ENVIRONMENT already defined in /srv/orderapp/index.php on line 21, referer: https://proxyradar.com/
