@@ -221,7 +221,7 @@ class Auth_admin extends CI_Controller {
 		
 	}
 
-	function del_med(){
+	function delete_med(){
 		$id=$this->uri->segment(3);
 		// $med_id=$this->uri->segment(4);
 		var_dump($id);
