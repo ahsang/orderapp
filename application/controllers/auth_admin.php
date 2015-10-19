@@ -166,9 +166,11 @@ class Auth_admin extends CI_Controller {
 		// $this->db->select("*")->from("MedMaster as m")->join("PackingMedJoin as p","m.MedID=p.medID");
 		// $temp=$this->db->get()->result();
 		$input=$this->input->post();
+		unset($input['example2_length']);
+		$this->db->insert('MedMaster', $input);
 		
 		// $input_db['Price']=$input['price'];
-		var_dump($input);
+		var_dump($this->db->insert_id());
 		
 		// echo $input;
 		// redirect('auth');
