@@ -103,7 +103,7 @@
 					$this->session->unset_userdata('message');
 
 					var_dump($x);
-					if($x!=null){
+					if($x){
 
 				?>
 				<script type="text/javascript">
