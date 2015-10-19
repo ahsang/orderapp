@@ -99,7 +99,9 @@
 				<h1>Medicines Master</h1>
 				<br>
 				<?php
-					$x=$this->session->flashdata('message');
+					$x=$this->session->user_data('message');
+					$this->session->unset_user_data('message');
+
 					var_dump($x);
 					if($x!=null){
 

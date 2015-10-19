@@ -176,7 +176,7 @@ class Auth_admin extends CI_Controller {
 		$cat['4']="Ointments & Gels";
 		$input['Category']=$cat[$input['CategoryID']];
 		$this->db->insert('MedMaster', $input);
-		$this->session->flashdata('message',"New Medicine Added with ID: ".$this->db->insert_id());
+		$this->session->set_userdata('message',"New Medicine Added with ID: ".$this->db->insert_id());
 		// $input_db['Price']=$input['price'];
 		// var_dump($this->db->insert_id());
 		
@@ -227,7 +227,7 @@ class Auth_admin extends CI_Controller {
 		var_dump($id);
 		$this->db->where('MedID', $id);
 		$this->db->delete('MedMaster');
-		$this->session->flashdata('message',"Medicine Deleted with ID: ".$id);
+		$this->session->set_userdata('message',"Medicine Deleted with ID: ".$id);
 		
 		redirect('auth');
 		
